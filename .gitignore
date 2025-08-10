@@ -1,0 +1,16 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+.venv_article/
+venv_article/
+*.log
+.DS_Store
+*.sqlite3
+backup/
+.backup/
