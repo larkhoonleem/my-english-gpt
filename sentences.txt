@@ -1,693 +1,950 @@
-Section 2: Known and Unknown
-
-Sorry, I've spilled water on the book [there's only one book on the table so the listener knows which book]
-Sorry, I've spilled water on a book [there are lots of books on the table, and it's not clear to the listener which book].
-She needs a chair from the dining room [the listener can see that there are several chairs in the dining room].
-She needs the chair from the dining room [the listener can see that there's only one chair in the dining room].
-Would you mind opening the door? [I mean the door of the room we are in.
-He walked into a door and hit his head [the listener doesn't know which door].
-She fell into the river [there's one river in our town].
-She fell into a river [the listener doesn't know which river - it could be any river in the country].
-I had dinner in the Chinese restaurant [I mean the one near our house].
-I had dinner in a Chinese restaurant [there are hundreds in London and the listener doesn't know which one].
-I drank the cup of coffee that I'd just bought
-I drank a cup of coffee.
-John's going out with the French girl who we met last week.
-John's going out with a French girl.
-I bought a new laptop.
-I bought the laptop that I told you about.
-David had dinner in a restaurant.
-David had dinner in the restaurant that he usually goes to.
-He played a piece of music.
-He played the piece of music that we were discussing yesterday.
-Let's meet in a café.
-Let's meet in the café next to my flat.
-I picked up the piece of paper on the floor.
-I picked up a piece of paper.
-Could you put these flowers on a table?
-Could you put these flowers on the table next to the door?
-I put my new cushion on a chair.
-I put my new cushion on the chair next to the fireplace.
-She bought a new dress in a shop.
-She bought a new dress in the shop next to the supermarket.
-Julie crashed her bike into a tree.
-Julie crashed her bike into the only tree in her garden.
-We went to a restaurant.
-We went to the usual restaurant.
-John has a yellow car.
-John has the same yellow car as Mike.
-Let's get a taxi.
-Let's get the next taxi.
-He brought a cake.
-He brought the wrong cake.
-She put down a card and won the game.
-She put down the right card and won the game.
-Everest is the highest mountain in the world.
-Who is the oldest person in your family?
-This dress was cheapest.
-Which language do you think is easiest to learn?
-This book is the most serious one on the topic.
-I think that one over there is the strongest horse.
-This film is shortest.
-She's the fastest runner in her school.
-That suitcase is lightest.
-Out of all the cities in Europe, London is biggest.
-I read a lot of books on the subject and this one is the best.
-I wake up earliest on Mondays, as I go to a yoga class. On other days I sleep later.
-We went to the usual restaurant.
-John has a yellow car.
-John has the same yellow car as Mike.
-Let's get a taxi.
-Let's get the next taxi.
-He brought a cake.
-He brought the wrong cake.
-She put down a card and won the game.
-She put down the right card and won the game.
-Everest is the highest mountain in the world.
-Who is the oldest person in your family?
-This dress was cheapest.
-Which language do you think is easiest to learn?
-This book is the most serious one on the topic.
-I think that one over there is the strongest horse.
-This film is shortest.
-She's the fastest runner in her school.
-That suitcase is lightest.
-Out of all the cities in Europe, London is biggest.
-I read a lot of books on the subject and this one is the best.
-I wake up earliest on Mondays, as I go to a yoga class. On other days I sleep later.
-Amanda's happiest when she's on holiday.
-Which student in the class is the happiest?
-This juice is most delicious if you chill it for a long time first.
-The British Library is best in the mornings. It's too crowded in the afternoons.
-John is calmest when he's working.
-Of all the people in our office, Adrian is the calmest.
-Lucy wakes up the earliest in her family.
-Which juice is the most delicious? Apple juice, orange juice or raspberry juice?
-He gave me a clock and a picture as a wedding present. The clock belonged to his grandmother.
-I took a suitcase and a backpack on holiday. The suitcase was much more useful.
-John broke a vase when he was in Marie's house. The vase was over 100 years old.
-Julie read a book and a magazine. She said the book was quite boring, though.
-I washed a white shirt and a red top together. Now the shirt is pink.
-She gave us bread and orange juice. The orange juice was delicious.
-I got a book and a magazine from the library.
-We watched films and TV programmes all night. The films were better.
-She offered us a piece of cake or biscuits.
-We had broccoli and cheese for dinner.
-I dropped a glass and two bowls. They all broke.
-We cooked spaghetti and bacon. John had bought the spaghetti in Rome.
-She has a black umbrella and I have a blue one. The blue one is much bigger.
-We had a piece of pie and potatoes for lunch. The pie was very good indeed.
-I took a bottle of wine and a box of chocolates to the party.
-I drank a cup of coffee and ate biscuits. The biscuits had been made by my mother.
-She bought shoes and a dress to wear to her sister's wedding.
-Ruth has a son and two daughters. One of the daughters is in my class.
-They drank water and tea.
-At the weekend, I crashed my bike into a car.
-I moved into a new flat last month. It's really lovely.
-Could you get milk and a bar of chocolate when you are at the shop?
-I had pasta and a glass of wine last night. The pasta was really good.
-I spilled coffee on the sofa and I dropped a jug of milk on the floor.
-John has orange chairs and green carpets!
-I bought a new dress, but I was annoyed to find that the zip was broken.
-They stopped for a picnic. However, the lemonade was warm.
-Amelia went to a restaurant. She saw a famous actress there.
-She sat down on a chair, and started reading a book.
-They hired a car on holiday, but when they opened the boot, a cat was hiding inside!
-William is the cutest baby in London.
-Let's start again from the beginning of the song.
-I bought a new dress.
-Which is your favourite city in the world?
-He was wearing the same T-shirt as his brother.
-I'll meet you in the usual place.
-This is the only dress I could find.
-Today is the coldest day of the year.
-I bought the wrong book.
-He bought a pen and some paper in the shop. The pen was red.
-She crashed her bicycle into a car, and broke the windscreen.
-She lay on her back on the grass and looked at the sky.
-Everest is the highest mountain in the world.
-I had a cup of tea and a biscuit. They were both delicious.
-Please pass the water jug [there is one water jug on our table.
-Have you read the book that I lent you?
-I love looking at the planets on a clear night
-There's dirt all over his jeans.
-What's the title of the film that you saw last night?
-There's a post office near the bank.
-The page number is at the bottom of each page.
-How many planets are in the solar system?
-We ate sandwiches and drank water.
-I bought a new dress. It has a pattern on the sleeves.
-I had a cup of coffee for breakfast.
-I met a man and a woman last night. The woman was from Mexico.
-She bought a new laptop.
-There are people outside.
-She wants to sit in the armchair (there is only one armchair in this room).
-In the countryside, you can see the stars much more clearly than in the city.
-There's a good hairdresser on that road.
-I had bread and cheese for lunch.
-It's not good for your eyes to look directly at the sun.
-Where's the shop that John works in?
-I've got a tent, but it's very old.
-You can borrow it if you want.
-They went for a walk and looked at the moon.
-It's on the back of the page.
-She gave me the last chocolate.
-She put a book in her bag [you don't know which book
-She bought the laptop that her brother recommended.
-I had lunch in a lovely restaurant. The main course was excellent.
-Julie has a sister and two brothers.
-Please pass me the coffee on the table (there is one cup of coffee and one table near us.
-Sorry, that's the wrong book. I need the one by David Jones.
-It's amazing to think about how big the universe is.
-John is the tallest in his family.
-There are spiders in the bath.
-We rented a car on holiday.
-She walked into a beautiful house. The kitchen was near the front door
-There's a Japanese restaurant near my house.
-The artist's name is on the back of the painting.
-I bought a new computer.
-My brother is in the middle of the photo.
-She got new shoes last weekend.
-Which is the right answer?
-There's luggage in the hall.
-This is the most beautiful painting that I've ever seen.
-I visited an old castle yesterday.
-I bought a new bicycle, but the seat is really uncomfortable.
-At the end of the book, they fell in love.
-
-
-Section 3: Specific and General
-
-He hates cats.
-I like the cats that you have.
-I gave her back the books that she'd lent me.
-Books are expensive.
-Rice is very popular in Asia.
-Pass the rice please [it's on our table]
-It's impressive how clever dogs are.
-The dogs that my friend has are really stupid.
-Many people say that the love that you feel for your baby is exceptionally strong.
-Love is more important than money.
-She loves flowers - you could buy her some for her birthday.
-I put the flowers that I received for my birthday in a vase
-Chocolate is made from cocoa.
-She put the chocolate that she bought in the fridge.
-I dropped the cakes that you made on the way to the party.
-She likes making cakes.
-The lions in London Zoo are quite friendly
-Lions are very scary animals.
-Do you think money is important for a happy life?
-I need the money that I left on the table.
-We studied German philosophy.
-We read about the poetry of Scotland.
-He's interested in human happiness.
-I took a class on French literature.
-The book's about the music of Ireland.
-I've never studied the art of the Far East.
-I watched a programme on TV about twentieth-century ideas
-She writes about modern art.
-She's writing her thesis on the philosophy of Hegel.
-I read an article about the history of South America.
-She read a book about the philosophy of Kant.
-He likes eighteenth-century poetry.
-There was a documentary about the literature of the United States.
-Could you tell me more about Indian music?
-She loves Asian food.
-This charity tries to help the hungry in poor countries.
-How can we provide opportunities for the uneducated?
-The Chinese often like green tea.
-Many processed foods contain palm oil.
-Are cars a problem?
-He thinks the rich should pay more tax.
-The Prime Minister is trying to help the unemployed.
-The elderly are very powerful politically.
-She doesn't drink white wine.
-Black clothes are popular in northern Europe.
-She thought the people of Cambridge were extremely friendly.
-I really like eating spicy food.
-This new hotel will be very popular with the tourist.
-Rats can carry disease.
-In the twenty-first century, employees often work at home.
-How will this new law affect small business owners?
-Young children need a lot of sleep.
-
-
-Section 4: Using ‘THE’ to talk about abstract ideas
-
-
-
-We travelled by boat when we went on holiday.
-Laura is on the train.
-How do you get to work? On foot?
-Can I take the train to San Francisco?
-Get off the subway at Central Park North.
-She went to Paris by train.
-He loves travelling by bike.
-You shouldn't talk loudly while you're on the bus.
-She could take the plane to Glasgow.
-I travel around London by bus.
-She sent the information by email.
-Did you hear the news on the radio?
-Could you find out the time of the train by phone?
-The book arrived by post.
-Has the mail already arrived?
-How much time do you spend on the phone?
-The scandal was all over the newspapers.
-Could we advertise by mail?
-These days news is often communicated on the internet and the TV as well as by radio.
-Your document's in the post.
-Julie kissed his cheek.
-Julie kissed him on the cheek.
-Julie held his arm.
-Julie held him by the arm.
-Julie patted him on the back.
-Julie patted his back.
-What time do you get up in the morning?
-By day he's an accountant, but after work he's the drummer in a rock group.
-We usually study in the afternoon.
-They often go to the pub at night.
-I'm sorry, I can't meet during the week. I'm very busy at work at the moment.
-By night, London looks totally different.
-He works during the day.
-What are you doing at the weekend?
-She met her friends in the evening.
-It's so cold here! Even in the daytime, it's below freezing.
-She works for the fire brigade
-We travelled by plane
-I really need a holiday at the beach!
-Pollution is a major problem in our cities.
-Shall we go to the cinema tonight?
-I'd love to go to the opera.
-Young people don't know enough about literature.
-He's worried about crime.
-She caught the train at King's Cross station.
-The boss said he would contact Julie by phone.
-We met at the pub.
-Lucy can play the violin beautifully.
-I took the bus to the concert.
-I need to take my son to the doctor's today, so I can't come to lunch.
-I went to the party by car.
-My grandmother refuses to put her money in the bank.
-I'll send you the bill by email.
-I love listening to my husband play the cello.
-I can't meet you in the week, as I always work late.
-She went from Warsaw to London by bus.
-I really love listening to music.
-She studies philosophy at university.
-John has played the piano since he was a child.
-She went to the ballet on her birthday.
-Do you like the city?
-He hates swimming in the sea, and prefers a swimming pool.
-Are you interested in art?
-Poverty is the biggest problem we need to solve.
-I bought some bread at the baker's.
-My cousin is sometimes on the radio talking about the economy.
-I took lessons to learn how to play the clarinet.
-To succeed as a writer you need luck and good timing.
-It's easy to get around Paris by metro.
-The parcel will come by post.
-They often visit the theatre.
-You can take the underground to the restaurant.
-I spent two hours on the phone last night.
-There was a programme about climate change on TV last night.
-Listen to the wind!
-She loves nature and often goes for long walks in the country.
-She sent the invitation in the post.
-Lucy went for a swim, and then to the hairdresser's.
-We might take the boat to France.
-I'm not rich enough to always travel by taxi!
-Responsibility is important for society.
-If you have toothache, you should go to the dentist's.
-You can exchange money at the post office
-We often go to the seaside in summer.
-My mother lives in the countryside.
-It's important to keep up with technology.
-I love going to university by bike.
-The satellite is in space.
-He travelled around the USA by motorbike.
-I went skiing in the mountains.
-We usually drink tea at around four o'clock in the afternoon.
-Life can be difficult when you don't have much money.
-London looks much better in the sunshine.
-She travelled around Japan by train.
-Unemployment has risen recently.
-We learned about global warming at school.
-She hates the city and much prefers to live in a village.
-How does the government's attitude affect society?
-She can't come for coffee because she has to go to the doctor's.
-I'd love to live by the sea.
-He explored Argentina by motorbike.
-Do you spend a lot of time on the phone?
-It's important to be happy in the present.
-My mother thinks I should put all my money in my savings account at the bank.
-In Cambridge, everyone gets around by bike.
-He listens to the radio every night.
-He's interested in nature and the environment.
-I really hate going to the dentist's.
-Would you like to travel into space?
-Shall we go to the pub later?
-He plays the piano very well.
-They travelled from England to Spain by boat.
-Do you go to work on foot?
-We went hiking in the mountains on holiday.
-How often do you go to the hairdresser's?
-I need to buy some stamps at the post office.
-We travelled around Tokyo by underground.
-Do you often work in the evening?
-She often gets up for a glass of water during the night.
-John needs a new tie because he's going to the opera.
-He goes to work by car.
-The children love the seaside.
-I'd love to visit Brazil in the future.
-We went for a walk and enjoyed the sunshine.
-She lay in bed and listened to the wind outside.
-Unemployment is a big problem at the moment
-She travelled around California by bus.
-His grandfather thinks that climate change is a myth.
-What shall we do tomorrow? How about going to the zoo?
-The children learn a lot about global warming.
-He likes getting up early and walking to the baker's to buy fresh bread.
-I often go to Scotland by plane, although occasionally I drive.
-She loves playing the violin.
-Many companies are trying to reduce pollution.
-Can your brother play the guitar?
-How can we tackle poverty?
-The bill will come in the post.
-Did you take the bus home yesterday?
-You need luck and skill to win.
-How often do you go to the cinema?
-He usually takes the plane when he goes to Paris.
-How can we use technology to improve everybody's life?
-A friend of mine took the train all the way across Russia.
-The valley looks beautiful in the rain.
-She loves going to the theatre.
-I try not to sleep in the daytime.’
-She spends a lot of time listening to music.
-We often go to the ballet.
-Last week, we went to a lecture about history
-That's life!
-She loves the beach and takes a holiday by the Mediterranean at least twice a year.
-We studied the present perfect tense in my English class today.
-She sent the money by post.
-His brother plays the piano beautifully.
-She really knows how to dance the tango.
-How will the public react to this new law?
-We did the foxtrot all night.
-Did you come by taxi?
-He usually goes to work by underground.
-I like to get up early in the morning.
-The Prime Minister promised to reduce crime.
-What do you like to do at the weekend?
-Can you imagine what it was like to live in the past? No electricity, no mobile phones, no running water!
-He studied history at university.
-Tim Berners-Lee invented the World Wide Web in the 1980s.
-They try to recycle as much as possible as it's good for the environment.
-What's the weather like in Australia at the moment?
-I really like the climate here - not too hot, not too cold.
-Celebrities often have a love/hate relationship with the press.
-Most British people trust the police.
-She learned the waltz at school.
-I usually read the newspaper on Sundays.
-The government is reducing the money it gives to science.
-I'll be in touch by email.
-We often go to the countryside for the weekend.
-Please write your essay in the past tense.
-You shall know a word by the company it keeps.
-
-
-Section 5: Using ‘A’ to talk about members of categories
-
-
-
-I'm going to buy Julie a cake for her birthday.
-I always go to the café around the corner from our house. You know the one.
-Could you try to find me a new saucepan when you're at the shops?
-What happened to the rest of the soup that we ate yesterday?
-We'd like a large bottle of orange juice, please.
-The water in my house is really brown!
-Pass me the spoon next to your hand, please.
-I'm looking for a job.
-If I were you, I'd take a taxi to the airport.
-Could you lend me a pen?
-Do you know a good dentist?
-Is there a park near here?
-That child looks really cold. She needs a coat.
-This is the plant that I told you about. Isn't it beautiful?
-I wish I lived in a house by the sea.
-She's a lawyer.
-That sounds like a lorry outside.
-Dr Seuss is a children's book.
-Maria and Juan are engineers.
-A Ferrari is a kind of car.
-Korma is an Indian dish.
-Julia works as a waitress.
-My nephew looked like an old man when he was born.
-Basil is a variety of herb.
-A barrister is a sort of lawyer.
-That car is a Mercedes.
-They are very nice people.
-Noriko and Kumiko are students.
-David is a professor.
-What's in this box? It looks like chocolate!
-I work as a teacher.
-That sounds like a bell.
-Reggae is a kind of music.
-My sisters are Ø doctors.
-Elizabeth is an extremely intelligent girl
-What a cute baby!
-What fun!
-What heavy rain!
-What a day!
-What fantastic music!
-What a warm evening!
-What beautiful clothes!
-What a horrible journey!
-What an interesting book!
-What traffic!
-Lucy is a lawyer
-What awful weather!
-They looked like thieves.
-John and Susan are Christians.
-Does that farm sell eggs?
-This is a sort of magazine.
-What delicious cakes!
-She's looking for a Japanese teacher.
-I need a cup of tea!
-Could you pass me a glass?
-Do you know a cheap restaurant near here?
-We need Ø music!
-Could you buy pasta when you're at the shop?
-Emma's at the market looking for brown rice.
-Are there plants in your office?
-This garden needs grass!
-What a lovely holiday!
-Julie and Luke are nurses.
-I want new cushions for my living room.
-Do you have lemonade?
-John works as an accountant.
-What an ugly car!
-What a tasty meal!
-Several of my friends are vegetarians.
-What a fantastic prize!
-What interesting buildings
-I'd like to be a surgeon when I've finished university.
-Espresso is a kind of coffee.
-That sounds like water.
-What lovely food!
-They advertised for receptionists who know Spanish, German and Portuguese.
-He'd like new clothes.
-She's an actress.
-Yoshi and Yuka are Buddhists.
-That's a kind of cake.
-What a horrible story!
-Richard's a taxi driver.
-What beautiful shoes!
-My parents are police officers.
-I'd love a bigger house.
-
-
-Section 6: Words that generally have ‘No article’
-
-
-
-Could you tell me the answer to question 6, please?
-The trains from London arrive at platform 7.
-Her office is on the third floor.
-John, could you read out number three, please?
-The description of the house is in section eight of the book.
-Could you pass me the first box on the right, please?
-The diagram on page 84 is not correct.
-The classroom is on the second floor.
-His flight leaves from gate 18.
-I don't know the answer to the eighth question.
-The class will be held in room 336
-We need to read the first part of the book for homework.
-They live in the third flat.
-The date of publication is normally on the first page of the book.
-Please look at Ø diagram 23.
-This is the first book I've ever read by this author.
-Could you begin reading from the beginning of Ø part four?
-They live in flat 3.
-Is this the first time that you've visited London?
-She's the third person I've met this week who knows my sister!
-She was elected president.
-Catherine is a pilot.
-I'm a bank clerk.
-Adam is CEO of our company
-Ellie was appointed professor of philosophy at Oxford.
-Mary was crowned queen in 1543.
-John works as a teacher.
-Lucy's a lawyer.
-He got a new job working as a shop assistant.
-He became treasurer in 2010.
-Can you speak Turkish?
-This book is written in Arabic.
-What's the answer to question ten?
-The winter that Julie was born was cold and snowy.
-Would you like to have dinner at home or shall we go out?
-Have you ever tried Ø judo?
-Did I tell you about the delicious lunch that we had in Paris?
-Elizabeth was elected President of the United States.
-He's studying Spanish.
-The party is on the third of February.
-I learned Ø tennis at school.
-I had breakfast in a café yesterday.
-What are you doing at Christmas?
-Could you write question number four on the board, please?
-She speaks English fluently.
-He cooked the most amazing dinner.
-Would you like to go to the cinema on Friday night?
-Baseball is very popular in Japan.
-Do you fast during Ramadan?
-Could you pass me the third book on the shelf, please?
-Do you remember the July when we met?
-Shall we have coffee on Monday?
-Julie is studying Japanese.
-Could you come on the 6th of August?
-The information about proper nouns is in Section 9.
-Do you play rugby at school?
-I love summer!
-She can speak Spanish really well.
-We often go on holiday in May.
-How about meeting on Tuesday afternoon?
-Please turn to question D in your exam paper.
-He was crowned king in Westminster Abbey.
-Fact is, I don't like tea very much, even though I'm British.
-Her office is on the second floor.
-I love skiing.
-The winter that I was in Japan was one of the best winters of my life.
-Do you celebrate Easter?
-The train leaves from Ø platform 6.
-The English that they speak in Glasgow is quite different from how people speak in London.
-He was elected Prime Minister.
-
-
-Section 7: Special cases and difficulities
-
-
-
-Look at the sky! It's a beautiful shade of pink!
-Neil Armstrong explored in a moon buggy.
-Have you had lunch yet?
-She can play the guitar really well.
-I think we should fix the roof properly now, so we can avoid future problems.
-The government needs to think more about protecting the environment.
-We had a Russian lesson every Friday when I was at university.
-The children made a model of the world.
-John has a cough.
-The children can't leave the classroom until the lunch bell rings.
-She bought a new work outfit.
-They are learning to speak Ø Russian.
-He's working as a guitar teacher.
-Mary bought cough medicine.
-She loves sky diving.
-She's just graduated from university and is very excited about the future.
-She works for an environment agency in Canada.
-Did you see the moon last night? It was really bright.
-They wished for world peace.
-He goes to work on the train every day.
-The old actor died in hospital last night.
-She sometimes goes to the jail in our city as part of her job.
-My son's studying history at university.
-When their houses were damaged in the storm, some people slept in the school nearby.
-He spent three years in prison.
-Have you ever seen the university in Cambridge?
-The lawyer stood up in court and spoke to the jury.
-The college in our city is very near the river.
-Do your parents go to church on Sundays?
-Lucy is still at school-she's only fourteen.
-I won't break the law-I don't want to go to jail!
-My class visited the prison in our town last month - it was very interesting.
-We'll meet outside the church at six.
-The school children had a tour round the court near their school.
-How many classes do you have at college?
-I went to the hospital today to see my friend who's a nurse.
-John is at home now.
-Let's go into town later - I'd like to do some shopping.
-I went to bed early last night, but I still feel tired.
-The work that Julie is doing at the moment sounds boring.
-My son's just rented his first flat and needs furniture - I'm going to give him the bed in our spare room.
-I usually arrive at work at about eight thirty.
-She bought a book about the homes of the rich and famous.
-The town where my mother lives is very pretty.
-She has never had the measles.
-Unfortunately, he was diagnosed with cancer.
-I felt ill, but I didn't have a temperature.
-Her grandfather suffered from Ø heart disease.
-Julie has a cold, so she's not coming swimming today.
-John had a fever, and felt terrible.
-He had the flu during the Christmas holidays.
-I have such a headache. I think I'll go to bed early.
-She had a cough all winter.
-I very often get the hiccups.
-I don't like the AC at work. It's too cold.
-Should we book a B&B or a hotel for our holiday?
-She's studying DNA at university.
-Where is the headquarters of NASA?
-Do you know the ISBN of the book you want?
-You should use a sun cream with a high SPF if you have fair skin.
-There are a lot of stories about UFOS. People find the idea of life on other planets interesting.
-She's wanted to work for the BBC for a long time.
-In the film, the hero is running away from the CIA.
-Is there an ATM outside the station?
-How many member states are there in the EU?
-He worked as a reporter for CNN.
-The headquarters of the FBI is in Washington D.C.
-There are thirty basketball clubs in the NBA.
-He left UNICEF some money in his will.
-The UN sent aid to the country after the earthquake.
-When does the WHO recommend weaning babies?
-The website has a FAQ, but I couldn't find the information that I wanted there.
-I need to call the bank and ask them to send me a new PIN.
-Lord Ismay was the first Secretary General of NATO.
-I have a little water left. There's enough to share.
-I have a few good friends. I'm not lonely.
-He has little education. He can't read or write, and he can hardly count.
-There are few people she really trusts. It's a bit sad.
-We've got a little time at the weekend. Would you like to meet?
-Julie gave us a few apples from her garden. Shall we share them?
-She has little self-confidence. She has a lot of trouble talking to new people.
-There are few women politicians in the UK. There should be more.
-It's a great pity, but this hospital has little medicine. They can't help many people.
-I've got a few cakes to give away. Would you like one?
-There's a little milk left in the fridge. It should be enough for our coffee.
-Few children from this school go on to university, unfortunately.
-Do you need information on English grammar? I have a few books on the topic if you would like to borrow them.
-She's lucky. She has few problems.
-The UK has little sunshine in the winter. That's why so many British people go on holiday to sunny places!
-There's a little spaghetti left in the cupboard. Shall we eat it tonight?
-There are few programmes on television that I want to watch. I prefer to download a film or read a book
+[Known/Unknown] Sorry, I've spilled water on the book [there's only one book on the table so the listener knows which book]
+[Known/Unknown] Sorry, I've spilled water on a book [there are lots of books on the table, and it's not clear to the listener which book].
+[Known/Unknown] She needs a chair from the dining room [the listener can see that there are several chairs in the dining room].
+[Known/Unknown] She needs the chair from the dining room [the listener can see that there's only one chair in the dining room].
+[Known/Unknown] Would you mind opening the door? [I mean the door of the room we are in.
+[Known/Unknown] He walked into a door and hit his head [the listener doesn't know which door].
+[Known/Unknown] She fell into the river [there's one river in our town].
+[Known/Unknown] She fell into a river [the listener doesn't know which river - it could be any river in the country].
+[Known/Unknown] I had dinner in the Chinese restaurant [I mean the one near our house].
+[Known/Unknown] I had dinner in a Chinese restaurant [there are hundreds in London and the listener doesn't know which one].
+[Known/Unknown] I drank the cup of coffee that I'd just bought
+[Known/Unknown] I drank a cup of coffee.
+[Known/Unknown] John's going out with the French girl who we met last week.
+[Known/Unknown] John's going out with a French girl.
+[Known/Unknown] I bought a new laptop.
+[Known/Unknown] I bought the laptop that I told you about.
+[Known/Unknown] David had dinner in a restaurant.
+[Known/Unknown] David had dinner in the restaurant that he usually goes to.
+[Known/Unknown] He played a piece of music.
+[Known/Unknown] He played the piece of music that we were discussing yesterday.
+[Known/Unknown] Let's meet in a cafÃ©.
+[Known/Unknown] Let's meet in the cafÃ© next to my flat.
+[Known/Unknown] I picked up the piece of paper on the floor.
+[Known/Unknown] I picked up a piece of paper.
+[Known/Unknown] Could you put these flowers on a table?
+[Known/Unknown] Could you put these flowers on the table next to the door?
+[Known/Unknown] I put my new cushion on a chair.
+[Known/Unknown] I put my new cushion on the chair next to the fireplace.
+[Known/Unknown] She bought a new dress in a shop.
+[Known/Unknown] She bought a new dress in the shop next to the supermarket.
+[Known/Unknown] Julie crashed her bike into a tree.
+[Known/Unknown] Julie crashed her bike into the only tree in her garden.
+[Known/Unknown] We went to a restaurant.
+[Known/Unknown] We went to the usual restaurant.
+[Known/Unknown] John has a yellow car.
+[Known/Unknown] John has the same yellow car as Mike.
+[Known/Unknown] Let's get a taxi.
+[Known/Unknown] Let's get the next taxi.
+[Known/Unknown] He brought a cake.
+[Known/Unknown] He brought the wrong cake.
+[Known/Unknown] She put down a card and won the game.
+[Known/Unknown] She put down the right card and won the game.
+[Known/Unknown] Everest is the highest mountain in the world.
+[Known/Unknown] Who is the oldest person in your family?
+[Known/Unknown] This dress was cheapest.
+[Known/Unknown] Which language do you think is easiest to learn?
+[Known/Unknown] This book is the most serious one on the topic.
+[Known/Unknown] I think that one over there is the strongest horse.
+[Known/Unknown] This film is shortest.
+[Known/Unknown] She's the fastest runner in her school.
+[Known/Unknown] That suitcase is lightest.
+[Known/Unknown] Out of all the cities in Europe, London is biggest.
+[Known/Unknown] I read a lot of books on the subject and this one is the best.
+[Known/Unknown] I wake up earliest on Mondays, as I go to a yoga class. On other days I sleep later.
+[Known/Unknown] We went to the usual restaurant.
+[Known/Unknown] John has a yellow car.
+[Known/Unknown] John has the same yellow car as Mike.
+[Known/Unknown] Let's get a taxi.
+[Known/Unknown] Let's get the next taxi.
+[Known/Unknown] He brought a cake.
+[Known/Unknown] He brought the wrong cake.
+[Known/Unknown] She put down a card and won the game.
+[Known/Unknown] She put down the right card and won the game.
+[Known/Unknown] Everest is the highest mountain in the world.
+[Known/Unknown] Who is the oldest person in your family?
+[Known/Unknown] This dress was cheapest.
+[Known/Unknown] Which language do you think is easiest to learn?
+[Known/Unknown] This book is the most serious one on the topic.
+[Known/Unknown] I think that one over there is the strongest horse.
+[Known/Unknown] This film is shortest.
+[Known/Unknown] She's the fastest runner in her school.
+[Known/Unknown] That suitcase is lightest.
+[Known/Unknown] Out of all the cities in Europe, London is biggest.
+[Known/Unknown] I read a lot of books on the subject and this one is the best.
+[Known/Unknown] I wake up earliest on Mondays, as I go to a yoga class. On other days I sleep later.
+[Known/Unknown] Amanda's happiest when she's on holiday.
+[Known/Unknown] Which student in the class is the happiest?
+[Known/Unknown] This juice is most delicious if you chill it for a long time first.
+[Known/Unknown] The British Library is best in the mornings. It's too crowded in the afternoons.
+[Known/Unknown] John is calmest when he's working.
+[Known/Unknown] Of all the people in our office, Adrian is the calmest.
+[Known/Unknown] Lucy wakes up the earliest in her family.
+[Known/Unknown] Which juice is the most delicious? Apple juice, orange juice or raspberry juice?
+[Known/Unknown] He gave me a clock and a picture as a wedding present. The clock belonged to his grandmother.
+[Known/Unknown] I took a suitcase and a backpack on holiday. The suitcase was much more useful.
+[Known/Unknown] John broke a vase when he was in Marie's house. The vase was over 100 years old.
+[Known/Unknown] Julie read a book and a magazine. She said the book was quite boring, though.
+[Known/Unknown] I washed a white shirt and a red top together. Now the shirt is pink.
+[Known/Unknown] She gave us bread and orange juice. The orange juice was delicious.
+[Known/Unknown] I got a book and a magazine from the library.
+[Known/Unknown] We watched films and TV programmes all night. The films were better.
+[Known/Unknown] She offered us a piece of cake or biscuits.
+[Known/Unknown] We had broccoli and cheese for dinner.
+[Known/Unknown] I dropped a glass and two bowls. They all broke.
+[Known/Unknown] We cooked spaghetti and bacon. John had bought the spaghetti in Rome.
+[Known/Unknown] She has a black umbrella and I have a blue one. The blue one is much bigger.
+[Known/Unknown] We had a piece of pie and potatoes for lunch. The pie was very good indeed.
+[Known/Unknown] I took a bottle of wine and a box of chocolates to the party.
+[Known/Unknown] I drank a cup of coffee and ate biscuits. The biscuits had been made by my mother.
+[Known/Unknown] She bought shoes and a dress to wear to her sister's wedding.
+[Known/Unknown] Ruth has a son and two daughters. One of the daughters is in my class.
+[Known/Unknown] They drank water and tea.
+[Known/Unknown] At the weekend, I crashed my bike into a car.
+[Known/Unknown] I moved into a new flat last month. It's really lovely.
+[Known/Unknown] Could you get milk and a bar of chocolate when you are at the shop?
+[Known/Unknown] I had pasta and a glass of wine last night. The pasta was really good.
+[Known/Unknown] I spilled coffee on the sofa and I dropped a jug of milk on the floor.
+[Known/Unknown] John has orange chairs and green carpets!
+[Known/Unknown] I bought a new dress, but I was annoyed to find that the zip was broken.
+[Known/Unknown] They stopped for a picnic. However, the lemonade was warm.
+[Known/Unknown] Amelia went to a restaurant. She saw a famous actress there.
+[Known/Unknown] She sat down on a chair, and started reading a book.
+[Known/Unknown] They hired a car on holiday, but when they opened the boot, a cat was hiding inside!
+[Known/Unknown] William is the cutest baby in London.
+[Known/Unknown] Let's start again from the beginning of the song.
+[Known/Unknown] I bought a new dress.
+[Known/Unknown] Which is your favourite city in the world?
+[Known/Unknown] He was wearing the same T-shirt as his brother.
+[Known/Unknown] I'll meet you in the usual place.
+[Known/Unknown] This is the only dress I could find.
+[Known/Unknown] Today is the coldest day of the year.
+[Known/Unknown] I bought the wrong book.
+[Known/Unknown] He bought a pen and some paper in the shop. The pen was red.
+[Known/Unknown] She crashed her bicycle into a car, and broke the windscreen.
+[Known/Unknown] She lay on her back on the grass and looked at the sky.
+[Known/Unknown] Everest is the highest mountain in the world.
+[Known/Unknown] I had a cup of tea and a biscuit. They were both delicious.
+[Known/Unknown] Please pass the water jug [there is one water jug on our table.
+[Known/Unknown] Have you read the book that I lent you?
+[Known/Unknown] I love looking at the planets on a clear night
+[Known/Unknown] There's dirt all over his jeans.
+[Known/Unknown] What's the title of the film that you saw last night?
+[Known/Unknown] There's a post office near the bank.
+[Known/Unknown] The page number is at the bottom of each page.
+[Known/Unknown] How many planets are in the solar system?
+[Known/Unknown] We ate sandwiches and drank water.
+[Known/Unknown] I bought a new dress. It has a pattern on the sleeves.
+[Known/Unknown] I had a cup of coffee for breakfast.
+[Known/Unknown] I met a man and a woman last night. The woman was from Mexico.
+[Known/Unknown] She bought a new laptop.
+[Known/Unknown] There are people outside.
+[Known/Unknown] She wants to sit in the armchair (there is only one armchair in this room).
+[Known/Unknown] In the countryside, you can see the stars much more clearly than in the city.
+[Known/Unknown] There's a good hairdresser on that road.
+[Known/Unknown] I had bread and cheese for lunch.
+[Known/Unknown] It's not good for your eyes to look directly at the sun.
+[Known/Unknown] Where's the shop that John works in?
+[Known/Unknown] I've got a tent, but it's very old.
+[Known/Unknown] You can borrow it if you want.
+[Known/Unknown] They went for a walk and looked at the moon.
+[Known/Unknown] It's on the back of the page.
+[Known/Unknown] She gave me the last chocolate.
+[Known/Unknown] She put a book in her bag [you don't know which book
+[Known/Unknown] She bought the laptop that her brother recommended.
+[Known/Unknown] I had lunch in a lovely restaurant. The main course was excellent.
+[Known/Unknown] Julie has a sister and two brothers.
+[Known/Unknown] Please pass me the coffee on the table (there is one cup of coffee and one table near us.
+[Known/Unknown] Sorry, that's the wrong book. I need the one by David Jones.
+[Known/Unknown] It's amazing to think about how big the universe is.
+[Known/Unknown] John is the tallest in his family.
+[Known/Unknown] There are spiders in the bath.
+[Known/Unknown] We rented a car on holiday.
+[Known/Unknown] She walked into a beautiful house. The kitchen was near the front door
+[Known/Unknown] There's a Japanese restaurant near my house.
+[Known/Unknown] The artist's name is on the back of the painting.
+[Known/Unknown] I bought a new computer.
+[Known/Unknown] My brother is in the middle of the photo.
+[Known/Unknown] She got new shoes last weekend.
+[Known/Unknown] Which is the right answer?
+[Known/Unknown] There's luggage in the hall.
+[Known/Unknown] This is the most beautiful painting that I've ever seen.
+[Known/Unknown] I visited an old castle yesterday.
+[Known/Unknown] I bought a new bicycle, but the seat is really uncomfortable.
+[Known/Unknown] At the end of the book, they fell in love.
+[Specific/General] He hates cats.
+[Specific/General] I like the cats that you have.
+[Specific/General] I gave her back the books that she'd lent me.
+[Specific/General] Books are expensive.
+[Specific/General] Rice is very popular in Asia.
+[Specific/General] Pass the rice please [it's on our table]
+[Specific/General] It's impressive how clever dogs are.
+[Specific/General] The dogs that my friend has are really stupid.
+[Specific/General] Many people say that the love that you feel for your baby is exceptionally strong.
+[Specific/General] Love is more important than money.
+[Specific/General] She loves flowers - you could buy her some for her birthday.
+[Specific/General] I put the flowers that I received for my birthday in a vase
+[Specific/General] Chocolate is made from cocoa.
+[Specific/General] She put the chocolate that she bought in the fridge.
+[Specific/General] I dropped the cakes that you made on the way to the party.
+[Specific/General] She likes making cakes.
+[Specific/General] The lions in London Zoo are quite friendly
+[Specific/General] Lions are very scary animals.
+[Specific/General] Do you think money is important for a happy life?
+[Specific/General] I need the money that I left on the table.
+[Specific/General] We studied German philosophy.
+[Specific/General] We read about the poetry of Scotland.
+[Specific/General] He's interested in human happiness.
+[Specific/General] I took a class on French literature.
+[Specific/General] The book's about the music of Ireland.
+[Specific/General] I've never studied the art of the Far East.
+[Specific/General] I watched a programme on TV about twentieth-century ideas
+[Specific/General] She writes about modern art.
+[Specific/General] She's writing her thesis on the philosophy of Hegel.
+[Specific/General] I read an article about the history of South America.
+[Specific/General] She read a book about the philosophy of Kant.
+[Specific/General] He likes eighteenth-century poetry.
+[Specific/General] There was a documentary about the literature of the United States.
+[Specific/General] Could you tell me more about Indian music?
+[Specific/General] She loves Asian food.
+[Specific/General] This charity tries to help the hungry in poor countries.
+[Specific/General] How can we provide opportunities for the uneducated?
+[Specific/General] The Chinese often like green tea.
+[Specific/General] Many processed foods contain palm oil.
+[Specific/General] Are cars a problem?
+[Specific/General] He thinks the rich should pay more tax.
+[Specific/General] The Prime Minister is trying to help the unemployed.
+[Specific/General] The elderly are very powerful politically.
+[Specific/General] She doesn't drink white wine.
+[Specific/General] Black clothes are popular in northern Europe.
+[Specific/General] She thought the people of Cambridge were extremely friendly.
+[Specific/General] I really like eating spicy food.
+[Specific/General] This new hotel will be very popular with the tourist.
+[Specific/General] Rats can carry disease.
+[Specific/General] In the twenty-first century, employees often work at home.
+[Specific/General] How will this new law affect small business owners?
+[Specific/General] Young children need a lot of sleep.
+[THE-abstract ideas] We travelled by boat when we went on holiday.
+[THE-abstract ideas] Laura is on the train.
+[THE-abstract ideas] How do you get to work? On foot?
+[THE-abstract ideas] Can I take the train to San Francisco?
+[THE-abstract ideas] Get off the subway at Central Park North.
+[THE-abstract ideas] She went to Paris by train.
+[THE-abstract ideas] He loves travelling by bike.
+[THE-abstract ideas] You shouldn't talk loudly while you're on the bus.
+[THE-abstract ideas] She could take the plane to Glasgow.
+[THE-abstract ideas] I travel around London by bus.
+[THE-abstract ideas] She sent the information by email.
+[THE-abstract ideas] Did you hear the news on the radio?
+[THE-abstract ideas] Could you find out the time of the train by phone?
+[THE-abstract ideas] The book arrived by post.
+[THE-abstract ideas] Has the mail already arrived?
+[THE-abstract ideas] How much time do you spend on the phone?
+[THE-abstract ideas] The scandal was all over the newspapers.
+[THE-abstract ideas] Could we advertise by mail?
+[THE-abstract ideas] These days news is often communicated on the internet and the TV as well as by radio.
+[THE-abstract ideas] Your document's in the post.
+[THE-abstract ideas] Julie kissed his cheek.
+[THE-abstract ideas] Julie kissed him on the cheek.
+[THE-abstract ideas] Julie held his arm.
+[THE-abstract ideas] Julie held him by the arm.
+[THE-abstract ideas] Julie patted him on the back.
+[THE-abstract ideas] Julie patted his back.
+[THE-abstract ideas] What time do you get up in the morning?
+[THE-abstract ideas] By day he's an accountant, but after work he's the drummer in a rock group.
+[THE-abstract ideas] We usually study in the afternoon.
+[THE-abstract ideas] They often go to the pub at night.
+[THE-abstract ideas] I'm sorry, I can't meet during the week. I'm very busy at work at the moment.
+[THE-abstract ideas] By night, London looks totally different.
+[THE-abstract ideas] He works during the day.
+[THE-abstract ideas] What are you doing at the weekend?
+[THE-abstract ideas] She met her friends in the evening.
+[THE-abstract ideas] It's so cold here! Even in the daytime, it's below freezing.
+[THE-abstract ideas] She works for the fire brigade
+[THE-abstract ideas] We travelled by plane
+[THE-abstract ideas] I really need a holiday at the beach!
+[THE-abstract ideas] Pollution is a major problem in our cities.
+[THE-abstract ideas] Shall we go to the cinema tonight?
+[THE-abstract ideas] I'd love to go to the opera.
+[THE-abstract ideas] Young people don't know enough about literature.
+[THE-abstract ideas] He's worried about crime.
+[THE-abstract ideas] She caught the train at King's Cross station.
+[THE-abstract ideas] The boss said he would contact Julie by phone.
+[THE-abstract ideas] We met at the pub.
+[THE-abstract ideas] Lucy can play the violin beautifully.
+[THE-abstract ideas] I took the bus to the concert.
+[THE-abstract ideas] I need to take my son to the doctor's today, so I can't come to lunch.
+[THE-abstract ideas] I went to the party by car.
+[THE-abstract ideas] My grandmother refuses to put her money in the bank.
+[THE-abstract ideas] I'll send you the bill by email.
+[THE-abstract ideas] I love listening to my husband play the cello.
+[THE-abstract ideas] I can't meet you in the week, as I always work late.
+[THE-abstract ideas] She went from Warsaw to London by bus.
+[THE-abstract ideas] I really love listening to music.
+[THE-abstract ideas] She studies philosophy at university.
+[THE-abstract ideas] John has played the piano since he was a child.
+[THE-abstract ideas] She went to the ballet on her birthday.
+[THE-abstract ideas] Do you like the city?
+[THE-abstract ideas] He hates swimming in the sea, and prefers a swimming pool.
+[THE-abstract ideas] Are you interested in art?
+[THE-abstract ideas] Poverty is the biggest problem we need to solve.
+[THE-abstract ideas] I bought some bread at the baker's.
+[THE-abstract ideas] My cousin is sometimes on the radio talking about the economy.
+[THE-abstract ideas] I took lessons to learn how to play the clarinet.
+[THE-abstract ideas] To succeed as a writer you need luck and good timing.
+[THE-abstract ideas] It's easy to get around Paris by metro.
+[THE-abstract ideas] The parcel will come by post.
+[THE-abstract ideas] They often visit the theatre.
+[THE-abstract ideas] You can take the underground to the restaurant.
+[THE-abstract ideas] I spent two hours on the phone last night.
+[THE-abstract ideas] There was a programme about climate change on TV last night.
+[THE-abstract ideas] Listen to the wind!
+[THE-abstract ideas] She loves nature and often goes for long walks in the country.
+[THE-abstract ideas] She sent the invitation in the post.
+[THE-abstract ideas] Lucy went for a swim, and then to the hairdresser's.
+[THE-abstract ideas] We might take the boat to France.
+[THE-abstract ideas] I'm not rich enough to always travel by taxi!
+[THE-abstract ideas] Responsibility is important for society.
+[THE-abstract ideas] If you have toothache, you should go to the dentist's.
+[THE-abstract ideas] You can exchange money at the post office
+[THE-abstract ideas] We often go to the seaside in summer.
+[THE-abstract ideas] My mother lives in the countryside.
+[THE-abstract ideas] It's important to keep up with technology.
+[THE-abstract ideas] I love going to university by bike.
+[THE-abstract ideas] The satellite is in space.
+[THE-abstract ideas] He travelled around the USA by motorbike.
+[THE-abstract ideas] I went skiing in the mountains.
+[THE-abstract ideas] We usually drink tea at around four o'clock in the afternoon.
+[THE-abstract ideas] Life can be difficult when you don't have much money.
+[THE-abstract ideas] London looks much better in the sunshine.
+[THE-abstract ideas] She travelled around Japan by train.
+[THE-abstract ideas] Unemployment has risen recently.
+[THE-abstract ideas] We learned about global warming at school.
+[THE-abstract ideas] She hates the city and much prefers to live in a village.
+[THE-abstract ideas] How does the government's attitude affect society?
+[THE-abstract ideas] She can't come for coffee because she has to go to the doctor's.
+[THE-abstract ideas] I'd love to live by the sea.
+[THE-abstract ideas] He explored Argentina by motorbike.
+[THE-abstract ideas] Do you spend a lot of time on the phone?
+[THE-abstract ideas] It's important to be happy in the present.
+[THE-abstract ideas] My mother thinks I should put all my money in my savings account at the bank.
+[THE-abstract ideas] In Cambridge, everyone gets around by bike.
+[THE-abstract ideas] He listens to the radio every night.
+[THE-abstract ideas] He's interested in nature and the environment.
+[THE-abstract ideas] I really hate going to the dentist's.
+[THE-abstract ideas] Would you like to travel into space?
+[THE-abstract ideas] Shall we go to the pub later?
+[THE-abstract ideas] He plays the piano very well.
+[THE-abstract ideas] They travelled from England to Spain by boat.
+[THE-abstract ideas] Do you go to work on foot?
+[THE-abstract ideas] We went hiking in the mountains on holiday.
+[THE-abstract ideas] How often do you go to the hairdresser's?
+[THE-abstract ideas] I need to buy some stamps at the post office.
+[THE-abstract ideas] We travelled around Tokyo by underground.
+[THE-abstract ideas] Do you often work in the evening?
+[THE-abstract ideas] She often gets up for a glass of water during the night.
+[THE-abstract ideas] John needs a new tie because he's going to the opera.
+[THE-abstract ideas] He goes to work by car.
+[THE-abstract ideas] The children love the seaside.
+[THE-abstract ideas] I'd love to visit Brazil in the future.
+[THE-abstract ideas] We went for a walk and enjoyed the sunshine.
+[THE-abstract ideas] She lay in bed and listened to the wind outside.
+[THE-abstract ideas] Unemployment is a big problem at the moment
+[THE-abstract ideas] She travelled around California by bus.
+[THE-abstract ideas] His grandfather thinks that climate change is a myth.
+[THE-abstract ideas] What shall we do tomorrow? How about going to the zoo?
+[THE-abstract ideas] The children learn a lot about global warming.
+[THE-abstract ideas] He likes getting up early and walking to the baker's to buy fresh bread.
+[THE-abstract ideas] I often go to Scotland by plane, although occasionally I drive.
+[THE-abstract ideas] She loves playing the violin.
+[THE-abstract ideas] Many companies are trying to reduce pollution.
+[THE-abstract ideas] Can your brother play the guitar?
+[THE-abstract ideas] How can we tackle poverty?
+[THE-abstract ideas] The bill will come in the post.
+[THE-abstract ideas] Did you take the bus home yesterday?
+[THE-abstract ideas] You need luck and skill to win.
+[THE-abstract ideas] How often do you go to the cinema?
+[THE-abstract ideas] He usually takes the plane when he goes to Paris.
+[THE-abstract ideas] How can we use technology to improve everybody's life?
+[THE-abstract ideas] A friend of mine took the train all the way across Russia.
+[THE-abstract ideas] The valley looks beautiful in the rain.
+[THE-abstract ideas] She loves going to the theatre.
+[THE-abstract ideas] I try not to sleep in the daytime.
+[THE-abstract ideas] She spends a lot of time listening to music.
+[THE-abstract ideas] We often go to the ballet.
+[THE-abstract ideas] Last week, we went to a lecture about history
+[THE-abstract ideas] That's life!
+[THE-abstract ideas] She loves the beach and takes a holiday by the Mediterranean at least twice a year.
+[THE-abstract ideas] We studied the present perfect tense in my English class today.
+[THE-abstract ideas] She sent the money by post.
+[THE-abstract ideas] His brother plays the piano beautifully.
+[THE-abstract ideas] She really knows how to dance the tango.
+[THE-abstract ideas] How will the public react to this new law?
+[THE-abstract ideas] We did the foxtrot all night.
+[THE-abstract ideas] Did you come by taxi?
+[THE-abstract ideas] He usually goes to work by underground.
+[THE-abstract ideas] I like to get up early in the morning.
+[THE-abstract ideas] The Prime Minister promised to reduce crime.
+[THE-abstract ideas] What do you like to do at the weekend?
+[THE-abstract ideas] Can you imagine what it was like to live in the past? No electricity, no mobile phones, no running water!
+[THE-abstract ideas] He studied history at university.
+[THE-abstract ideas] Tim Berners-Lee invented the World Wide Web in the 1980s.
+[THE-abstract ideas] They try to recycle as much as possible as it's good for the environment.
+[THE-abstract ideas] What's the weather like in Australia at the moment?
+[THE-abstract ideas] I really like the climate here - not too hot, not too cold.
+[THE-abstract ideas] Celebrities often have a love/hate relationship with the press.
+[THE-abstract ideas] Most British people trust the police.
+[THE-abstract ideas] She learned the waltz at school.
+[THE-abstract ideas] I usually read the newspaper on Sundays.
+[THE-abstract ideas] The government is reducing the money it gives to science.
+[THE-abstract ideas] I'll be in touch by email.
+[THE-abstract ideas] We often go to the countryside for the weekend.
+[THE-abstract ideas] Please write your essay in the past tense.
+[THE-abstract ideas] You shall know a word by the company it keeps.
+[A-member of categories] I'm going to buy Julie a cake for her birthday.
+[A-member of categories] I always go to the cafÃ© around the corner from our house. You know the one.
+[A-member of categories] Could you try to find me a new saucepan when you're at the shops?
+[A-member of categories] What happened to the rest of the soup that we ate yesterday?
+[A-member of categories] We'd like a large bottle of orange juice, please.
+[A-member of categories] The water in my house is really brown!
+[A-member of categories] Pass me the spoon next to your hand, please.
+[A-member of categories] I'm looking for a job.
+[A-member of categories] If I were you, I'd take a taxi to the airport.
+[A-member of categories] Could you lend me a pen?
+[A-member of categories] Do you know a good dentist?
+[A-member of categories] Is there a park near here?
+[A-member of categories] That child looks really cold. She needs a coat.
+[A-member of categories] This is the plant that I told you about. Isn't it beautiful?
+[A-member of categories] I wish I lived in a house by the sea.
+[A-member of categories] She's a lawyer.
+[A-member of categories] That sounds like a lorry outside.
+[A-member of categories] Dr Seuss is a children's book.
+[A-member of categories] Maria and Juan are engineers.
+[A-member of categories] A Ferrari is a kind of car.
+[A-member of categories] Korma is an Indian dish.
+[A-member of categories] Julia works as a waitress.
+[A-member of categories] My nephew looked like an old man when he was born.
+[A-member of categories] Basil is a variety of herb.
+[A-member of categories] A barrister is a sort of lawyer.
+[A-member of categories] That car is a Mercedes.
+[A-member of categories] They are very nice people.
+[A-member of categories] Noriko and Kumiko are students.
+[A-member of categories] David is a professor.
+[A-member of categories] What's in this box? It looks like chocolate!
+[A-member of categories] I work as a teacher.
+[A-member of categories] That sounds like a bell.
+[A-member of categories] Reggae is a kind of music.
+[A-member of categories] My sisters are doctors.
+[A-member of categories] Elizabeth is an extremely intelligent girl
+[A-member of categories] What a cute baby!
+[A-member of categories] What fun!
+[A-member of categories] What heavy rain!
+[A-member of categories] What a day!
+[A-member of categories] What fantastic music!
+[A-member of categories] What a warm evening!
+[A-member of categories] What beautiful clothes!
+[A-member of categories] What a horrible journey!
+[A-member of categories] What an interesting book!
+[A-member of categories] What traffic!
+[A-member of categories] Lucy is a lawyer
+[A-member of categories] What awful weather!
+[A-member of categories] They looked like thieves.
+[A-member of categories] John and Susan are Christians.
+[A-member of categories] Does that farm sell eggs?
+[A-member of categories] This is a sort of magazine.
+[A-member of categories] What delicious cakes!
+[A-member of categories] She's looking for a Japanese teacher.
+[A-member of categories] I need a cup of tea!
+[A-member of categories] Could you pass me a glass?
+[A-member of categories] Do you know a cheap restaurant near here?
+[A-member of categories] We need Ã˜ music!
+[A-member of categories] Could you buy pasta when you're at the shop?
+[A-member of categories] Emma's at the market looking for brown rice.
+[A-member of categories] Are there plants in your office?
+[A-member of categories] This garden needs grass!
+[A-member of categories] What a lovely holiday!
+[A-member of categories] Julie and Luke are nurses.
+[A-member of categories] I want new cushions for my living room.
+[A-member of categories] Do you have lemonade?
+[A-member of categories] John works as an accountant.
+[A-member of categories] What an ugly car!
+[A-member of categories] What a tasty meal!
+[A-member of categories] Several of my friends are vegetarians.
+[A-member of categories] What a fantastic prize!
+[A-member of categories] What interesting buildings
+[A-member of categories] I'd like to be a surgeon when I've finished university.
+[A-member of categories] Espresso is a kind of coffee.
+[A-member of categories] That sounds like water.
+[A-member of categories] What lovely food!
+[A-member of categories] They advertised for receptionists who know Spanish, German and Portuguese.
+[A-member of categories] He'd like new clothes.
+[A-member of categories] She's an actress.
+[A-member of categories] Yoshi and Yuka are Buddhists.
+[A-member of categories] That's a kind of cake.
+[A-member of categories] What a horrible story!
+[A-member of categories] Richard's a taxi driver.
+[A-member of categories] What beautiful shoes!
+[A-member of categories] My parents are police officers.
+[A-member of categories] I'd love a bigger house.
+[No article] Could you tell me the answer to question 6, please?
+[No article] The trains from London arrive at platform 7.
+[No article] Her office is on the third floor.
+[No article] John, could you read out number three, please?
+[No article] The description of the house is in section eight of the book.
+[No article] Could you pass me the first box on the right, please?
+[No article] The diagram on page 84 is not correct.
+[No article] The classroom is on the second floor.
+[No article] His flight leaves from gate 18.
+[No article] I don't know the answer to the eighth question.
+[No article] The class will be held in room 336
+[No article] We need to read the first part of the book for homework.
+[No article] They live in the third flat.
+[No article] The date of publication is normally on the first page of the book.
+[No article] Please look at Ã˜ diagram 23.
+[No article] This is the first book I've ever read by this author.
+[No article] Could you begin reading from the beginning of Ã˜ part four?
+[No article] They live in flat 3.
+[No article] Is this the first time that you've visited London?
+[No article] She's the third person I've met this week who knows my sister!
+[No article] She was elected president.
+[No article] Catherine is a pilot.
+[No article] I'm a bank clerk.
+[No article] Adam is CEO of our company
+[No article] Ellie was appointed professor of philosophy at Oxford.
+[No article] Mary was crowned queen in 1543.
+[No article] John works as a teacher.
+[No article] Lucy's a lawyer.
+[No article] He got a new job working as a shop assistant.
+[No article] He became treasurer in 2010.
+[No article] Can you speak Turkish?
+[No article] This book is written in Arabic.
+[No article] What's the answer to question ten?
+[No article] The winter that Julie was born was cold and snowy.
+[No article] Would you like to have dinner at home or shall we go out?
+[No article] Have you ever tried Ã˜ judo?
+[No article] Did I tell you about the delicious lunch that we had in Paris?
+[No article] Elizabeth was elected President of the United States.
+[No article] He's studying Spanish.
+[No article] The party is on the third of February.
+[No article] I learned Ã˜ tennis at school.
+[No article] I had breakfast in a cafÃ© yesterday.
+[No article] What are you doing at Christmas?
+[No article] Could you write question number four on the board, please?
+[No article] She speaks English fluently.
+[No article] He cooked the most amazing dinner.
+[No article] Would you like to go to the cinema on Friday night?
+[No article] Baseball is very popular in Japan.
+[No article] Do you fast during Ramadan?
+[No article] Could you pass me the third book on the shelf, please?
+[No article] Do you remember the July when we met?
+[No article] Shall we have coffee on Monday?
+[No article] Julie is studying Japanese.
+[No article] Could you come on the 6th of August?
+[No article] The information about proper nouns is in Section 9.
+[No article] Do you play rugby at school?
+[No article] I love summer!
+[No article] She can speak Spanish really well.
+[No article] We often go on holiday in May.
+[No article] How about meeting on Tuesday afternoon?
+[No article] Please turn to question D in your exam paper.
+[No article] He was crowned king in Westminster Abbey.
+[No article] Fact is, I don't like tea very much, even though I'm British.
+[No article] Her office is on the second floor.
+[No article] I love skiing.
+[No article] The winter that I was in Japan was one of the best winters of my life.
+[No article] Do you celebrate Easter?
+[No article] The train leaves from Ã˜ platform 6.
+[No article] The English that they speak in Glasgow is quite different from how people speak in London.
+[No article] He was elected Prime Minister.
+[Special cases] Look at the sky! It's a beautiful shade of pink!
+[Special cases] Neil Armstrong explored in a moon buggy.
+[Special cases] Have you had lunch yet?
+[Special cases] She can play the guitar really well.
+[Special cases] I think we should fix the roof properly now, so we can avoid future problems.
+[Special cases] The government needs to think more about protecting the environment.
+[Special cases] We had a Russian lesson every Friday when I was at university.
+[Special cases] The children made a model of the world.
+[Special cases] John has a cough.
+[Special cases] The children can't leave the classroom until the lunch bell rings.
+[Special cases] She bought a new work outfit.
+[Special cases] They are learning to speak Ã˜ Russian.
+[Special cases] He's working as a guitar teacher.
+[Special cases] Mary bought cough medicine.
+[Special cases] She loves sky diving.
+[Special cases] She's just graduated from university and is very excited about the future.
+[Special cases] She works for an environment agency in Canada.
+[Special cases] Did you see the moon last night? It was really bright.
+[Special cases] They wished for world peace.
+[Special cases] He goes to work on the train every day.
+[Special cases] The old actor died in hospital last night.
+[Special cases] She sometimes goes to the jail in our city as part of her job.
+[Special cases] My son's studying history at university.
+[Special cases] When their houses were damaged in the storm, some people slept in the school nearby.
+[Special cases] He spent three years in prison.
+[Special cases] Have you ever seen the university in Cambridge?
+[Special cases] The lawyer stood up in court and spoke to the jury.
+[Special cases] The college in our city is very near the river.
+[Special cases] Do your parents go to church on Sundays?
+[Special cases] Lucy is still at school-she's only fourteen.
+[Special cases] I won't break the law-I don't want to go to jail!
+[Special cases] My class visited the prison in our town last month - it was very interesting.
+[Special cases] We'll meet outside the church at six.
+[Special cases] The school children had a tour round the court near their school.
+[Special cases] How many classes do you have at college?
+[Special cases] I went to the hospital today to see my friend who's a nurse.
+[Special cases] John is at home now.
+[Special cases] Let's go into town later - I'd like to do some shopping.
+[Special cases] I went to bed early last night, but I still feel tired.
+[Special cases] The work that Julie is doing at the moment sounds boring.
+[Special cases] My son's just rented his first flat and needs furniture - I'm going to give him the bed in our spare room.
+[Special cases] I usually arrive at work at about eight thirty.
+[Special cases] She bought a book about the homes of the rich and famous.
+[Special cases] The town where my mother lives is very pretty.
+[Special cases] She has never had the measles.
+[Special cases] Unfortunately, he was diagnosed with cancer.
+[Special cases] I felt ill, but I didn't have a temperature.
+[Special cases] Her grandfather suffered from Ã˜ heart disease.
+[Special cases] Julie has a cold, so she's not coming swimming today.
+[Special cases] John had a fever, and felt terrible.
+[Special cases] He had the flu during the Christmas holidays.
+[Special cases] I have such a headache. I think I'll go to bed early.
+[Special cases] She had a cough all winter.
+[Special cases] I very often get the hiccups.
+[Special cases] I don't like the AC at work. It's too cold.
+[Special cases] Should we book a B&B or a hotel for our holiday?
+[Special cases] She's studying DNA at university.
+[Special cases] Where is the headquarters of NASA?
+[Special cases] Do you know the ISBN of the book you want?
+[Special cases] You should use a sun cream with a high SPF if you have fair skin.
+[Special cases] There are a lot of stories about UFOS. People find the idea of life on other planets interesting.
+[Special cases] She's wanted to work for the BBC for a long time.
+[Special cases] In the film, the hero is running away from the CIA.
+[Special cases] Is there an ATM outside the station?
+[Special cases] How many member states are there in the EU?
+[Special cases] He worked as a reporter for CNN.
+[Special cases] The headquarters of the FBI is in Washington D.C.
+[Special cases] There are thirty basketball clubs in the NBA.
+[Special cases] He left UNICEF some money in his will.
+[Special cases] The UN sent aid to the country after the earthquake.
+[Special cases] When does the WHO recommend weaning babies?
+[Special cases] The website has a FAQ, but I couldn't find the information that I wanted there.
+[Special cases] I need to call the bank and ask them to send me a new PIN.
+[Special cases] Lord Ismay was the first Secretary General of NATO.
+[Special cases] I have a little water left. There's enough to share.
+[Special cases] I have a few good friends. I'm not lonely.
+[Special cases] He has little education. He can't read or write, and he can hardly count.
+[Special cases] There are few people she really trusts. It's a bit sad.
+[Special cases] We've got a little time at the weekend. Would you like to meet?
+[Special cases] Julie gave us a few apples from her garden. Shall we share them?
+[Special cases] She has little self-confidence. She has a lot of trouble talking to new people.
+[Special cases] There are few women politicians in the UK. There should be more.
+[Special cases] It's a great pity, but this hospital has little medicine. They can't help many people.
+[Special cases] I've got a few cakes to give away. Would you like one?
+[Special cases] There's a little milk left in the fridge. It should be enough for our coffee.
+[Special cases] Few children from this school go on to university, unfortunately.
+[Special cases] Do you need information on English grammar? I have a few books on the topic if you would like to borrow them.
+[Special cases] She's lucky. She has few problems.
+[Special cases] The UK has little sunshine in the winter. That's why so many British people go on holiday to sunny places!
+[Special cases] There's a little spaghetti left in the cupboard. Shall we eat it tonight?
 
 
-
-Section 8: Others
-
-It’s not very nice to be calling teachers by the first name. It’s very disrespectful. 
-They’ve been working very hard and diligent for each one of you. 
-So going forward, I need you to please be courteous, 
-Be respectful for our teachers and not to be calling them by their first name
-What’s the master plan?
-To become rich and famous
-You might get there someday keep working at it
-Thank you all for coming in/You’re welcome.
-Below is an instruction that describes a task. Write a response that appropriately completes the request.
+[have] I have a car that I drive to work every day.
+[have] She has two cats and a dog at home.
+[have] We had lunch together yesterday.
+[have] They have a big house near the beach.
+[have] I have a headache this morning.
+[have] He has a lot of experience in teaching.
+[have] She had a wonderful trip to Italy.
+[have] Do you have time to help me today?
+[have] I have an idea for the project.
+[have] We had fun playing basketball.
+[have] He has a meeting at nine o’clock.
+[have] They have a problem with their computer.
+[have] I have friends all over the world.
+[have] She has a beautiful smile.
+[have] We had a long conversation last night.
+[have] He has good manners.
+[have] I have a question for you.
+[have] They had dinner at a new restaurant.
+[have] She has a cold and can’t come to class.
+[have] We have an exam tomorrow.
+[have] He had a chance to meet the president.
+[have] I have a meeting in the afternoon.
+[have] They have a lot of homework to do.
+[have] She had trouble finding the address.
+[have] We had tickets to the concert.
+[have] He has a new pair of shoes.
+[have] I have relatives in Canada.
+[have] They had a great holiday in Spain.
+[have] She has an interesting story to tell.
+[have] I have to leave early today.
+[make] She made a delicious cake for her friend’s birthday.
+[make] I need to make a phone call right now.
+[make] He made a mistake on the test.
+[make] They made plans to meet on Friday.
+[make] Please make yourself at home.
+[make] She makes good decisions under pressure.
+[make] We made a list of things to buy.
+[make] He made a joke that made everyone laugh.
+[make] I want to make a difference in the world.
+[make] They made a promise to each other.
+[make] She made a painting of the sunset.
+[make] He makes a living as a teacher.
+[make] I made a sandwich for lunch.
+[make] They made a movie about her life.
+[make] She made an effort to improve her grades.
+[make] I want to make new friends this year.
+[make] He made a speech at the wedding.
+[make] We made reservations at the hotel.
+[make] She made a copy of the document.
+[make] He made his bed before leaving.
+[make] I made a mistake and said the wrong word.
+[make] They made progress on the project.
+[make] She makes time for her family every day.
+[make] He made an appointment with the doctor.
+[make] I need to make a choice between two jobs.
+[make] She made eye contact with me.
+[make] They made a lot of money last year.
+[make] He made me laugh so hard.
+[make] We made a big effort to finish on time.
+[make] She made friends quickly at her new school.
+[get] I need to get a haircut.
+[get] She got a promotion at work.
+[get] We get up early on weekdays.
+[get] He got home late last night.
+[get] They got married last summer.
+[get] Can you get me some water?
+[get] I got a gift for my birthday.
+[get] She gets tired after running.
+[get] We got lost in the city.
+[get] He got sick after eating bad food.
+[get] I get nervous before a test.
+[get] They got ready for the trip.
+[get] She got angry when she heard the news.
+[get] I got an email this morning.
+[get] We got into the concert for free.
+[get] He gets along well with his classmates.
+[get] I got home just before it started to rain.
+[get] They got excited about the new movie.
+[get] She got dressed quickly.
+[get] I get bored easily.
+[get] We got permission to use the room.
+[get] He got lost in thought.
+[get] She gets good grades in school.
+[get] I got help from my teacher.
+[get] They got stuck in traffic.
+[get] He gets stronger every day.
+[get] I got scared during the thunderstorm.
+[get] She got better after resting.
+[get] We got tickets for the show.
+[get] He gets hungry in the afternoon.
+[do] I do my homework after school.
+[do] She does the dishes every night.
+[do] We did our best in the game.
+[do] He does his job well.
+[do] They did a lot of work yesterday.
+[do] Do you want to do something fun?
+[do] She did her hair before the party.
+[do] I do the laundry on weekends.
+[do] He did me a favor.
+[do] They do business overseas.
+[do] She does yoga every morning.
+[do] I did well on the exam.
+[do] We do everything together.
+[do] He does not like to do chores.
+[do] Did you do your project on time?
+[do] She did her makeup before leaving.
+[do] I do exercise three times a week.
+[do] They did the right thing.
+[do] He does his shopping online.
+[do] I did my part in the group work.
+[do] We do a lot of traveling.
+[do] She did her homework already.
+[do] He does a lot of reading.
+[do] Did you do the cleaning today?
+[do] I do not want to do this alone.
+[do] She did better than expected.
+[do] We do the cooking together.
+[do] He does everything carefully.
+[do] I did nothing wrong.
+[do] They do their best every time.
+[go] We go to school by bus.
+[go] She went shopping yesterday.
+[go] He goes jogging every morning.
+[go] They went to the park to play.
+[go] I go to bed at ten.
+[go] She goes swimming on weekends.
+[go] We went to Italy last summer.
+[go] He goes to the gym after work.
+[go] They go to church every Sunday.
+[go] I went to see a movie last night.
+[go] She goes to school on foot.
+[go] We go on vacation every year.
+[go] He went home early.
+[go] They go fishing on the lake.
+[go] I go shopping once a week.
+[go] She went to the library to study.
+[go] We go out to eat often.
+[go] He goes hiking in the mountains.
+[go] They went on a picnic.
+[go] I go to work by train.
+[go] She goes to bed late.
+[go] We went to the zoo with the kids.
+[go] He goes for a walk after dinner.
+[go] They go skiing in winter.
+[go] I went to visit my grandparents.
+[go] She goes abroad every year.
+[go] We go out for coffee sometimes.
+[go] He went to the doctor yesterday.
+[go] They go to concerts often.
+[go] I go wherever my friends go.
+[know] I know the answer to this question.
+[know] She knows how to play the piano.
+[know] We knew each other in college.
+[know] He knows the way to the station.
+[know] They know a lot about history.
+[know] Do you know her phone number?
+[know] I know what you mean.
+[know] She knew the truth all along.
+[know] We know the rules of the game.
+[know] He knows many people in this city.
+[know] They know how to cook Italian food.
+[know] I knew it was going to rain.
+[know] She knows the lyrics to every song.
+[know] We know each other very well.
+[know] He knew the answer immediately.
+[know] They know that it’s important to be kind.
+[know] I know where you live.
+[know] She knows my brother.
+[know] We knew the teacher was angry.
+[know] He knows what to do.
+[know] They know their neighbors well.
+[know] I know the story already.
+[know] She knew about the surprise party.
+[know] We know this place is safe.
+[know] He knows when to stop.
+[know] They knew they were late.
+[know] I know this city like the back of my hand.
+[know] She knows how to dance beautifully.
+[know] We know it won’t be easy.
+[know] He knew the job would be difficult.
+[come] She came to the party late.
+[come] Can you come to my office for a moment?
+[come] Spring is coming soon.
+[come] We came home early.
+[come] He comes here every morning.
+[come] They came to visit us last week.
+[come] I will come if I have time.
+[come] She came prepared for the exam.
+[come] We come from a small town.
+[come] He came to see the doctor.
+[come] They come together to celebrate.
+[come] I came across an old photo.
+[come] She comes to school by bike.
+[come] We came by train.
+[come] He comes from a large family.
+[come] They came to an agreement.
+[come] I will come back later.
+[come] She came with her friend.
+[come] We came to the conclusion that it was true.
+[come] He comes running whenever I call.
+[come] They came out of the building.
+[come] I came first in the race.
+[come] She comes from Japan.
+[come] We came early to get good seats.
+[come] He came to my rescue.
+[come] They come here every year.
+[come] I came up with an idea.
+[come] She came down the stairs quickly.
+[come] We will come again soon.
+[come] He comes late to class often.
+[call] I will call you tonight.
+[call] She called her mother yesterday.
+[call] We called the police for help.
+[call] He calls me every weekend.
+[call] They called their dog Max.
+[call] I got a call from my friend.
+[call] She calls her grandma often.
+[call] We called a taxi to the airport.
+[call] He called out my name.
+[call] They called the meeting to order.
+[call] I called you but you didn’t answer.
+[call] She called her teacher for advice.
+[call] We called our neighbors over for dinner.
+[call] He called a doctor right away.
+[call] They called the restaurant to book a table.
+[call] I call this my lucky pen.
+[call] She called me when she arrived.
+[call] We called to say thank you.
+[call] He called his son to come home.
+[call] They called off the game because of rain.
+[call] I called for help loudly.
+[call] She called her best friend in tears.
+[call] We called around to find the best price.
+[call] He called me early this morning.
+[call] They called a meeting to discuss the problem.
+[call] I called him back later.
+[call] She called out to the children.
+[call] We called the hotel to confirm.
+[call] He called his boss immediately.
+[call] They called everyone to join the celebration.
+[put] I put the keys on the table.
+[put] She put on her coat before leaving.
+[put] We put up a tent in the park.
+[put] He put sugar in his coffee.
+[put] They put the books back on the shelf.
+[put] I put my phone in my bag.
+[put] She put her hair in a ponytail.
+[put] We put our trust in him.
+[put] He put his arm around her.
+[put] They put on a play at school.
+[put] I put the dishes in the sink.
+[put] She put the baby to bed.
+[put] We put money into the bank.
+[put] He put his hand up to answer.
+[put] They put their car in the garage.
+[put] I put on some music.
+[put] She put her name on the list.
+[put] We put the chairs away after the party.
+[put] He put off his homework until later.
+[put] They put together a plan.
+[put] I put my jacket on the chair.
+[put] She put flowers in a vase.
+[put] We put effort into the project.
+[put] He put his shoes under the bed.
+[put] They put salt in the soup.
+[put] I put the letter in an envelope.
+[put] She put her phone on silent.
+[put] We put posters on the wall.
+[put] He put his wallet in his pocket.
+[put] They put the blame on him.
+[take] I take the bus to school.
+[take] She took a photo of the sunset.
+[take] We take turns cooking dinner.
+[take] He took the dog for a walk.
+[take] They take notes in class.
+[take] I will take an umbrella with me.
+[take] She took a deep breath.
+[take] We take time to relax on Sundays.
+[take] He took his medicine this morning.
+[take] They take care of their grandparents.
+[take] I took the wrong train.
+[take] She takes piano lessons.
+[take] We took a trip to the mountains.
+[take] He takes his job seriously.
+[take] They took part in the competition.
+[take] I take a shower every day.
+[take] She took her bag and left.
+[take] We take pictures when we travel.
+[take] He took a seat near the window.
+[take] They take good care of their house.
+[take] I took notes during the lecture.
+[take] She takes her coffee with milk.
+[take] We took the kids to the park.
+[take] He takes responsibility for his actions.
+[take] They took their time walking home.
+[take] I take vitamins every morning.
+[take] She took my advice.
+[take] We take long walks in the evening.
+[take] He took the opportunity to speak.
+[take] They take the train every day.

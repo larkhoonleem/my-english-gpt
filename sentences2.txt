@@ -1,0 +1,165 @@
+
+[No article]
+Could you tell me the answer to question 6, please?
+The trains from London arrive at platform 7.
+Her office is on the third floor.
+John, could you read out number three, please?
+The description of the house is in section eight of the book.
+Could you pass me the first box on the right, please?
+The diagram on page 84 is not correct.
+The classroom is on the second floor.
+His flight leaves from gate 18.
+I don't know the answer to the eighth question.
+The class will be held in room 336
+We need to read the first part of the book for homework.
+They live in the third flat.
+The date of publication is normally on the first page of the book.
+Please look at Ø diagram 23.
+This is the first book I've ever read by this author.
+Could you begin reading from the beginning of Ø part four?
+They live in flat 3.
+Is this the first time that you've visited London?
+She's the third person I've met this week who knows my sister!
+She was elected president.
+Catherine is a pilot.
+I'm a bank clerk.
+Adam is CEO of our company
+Ellie was appointed professor of philosophy at Oxford.
+Mary was crowned queen in 1543.
+John works as a teacher.
+Lucy's a lawyer.
+He got a new job working as a shop assistant.
+He became treasurer in 2010.
+Can you speak Turkish?
+This book is written in Arabic.
+What's the answer to question ten?
+The winter that Julie was born was cold and snowy.
+Would you like to have dinner at home or shall we go out?
+Have you ever tried Ø judo?
+Did I tell you about the delicious lunch that we had in Paris?
+Elizabeth was elected President of the United States.
+He's studying Spanish.
+The party is on the third of February.
+I learned Ø tennis at school.
+I had breakfast in a café yesterday.
+What are you doing at Christmas?
+Could you write question number four on the board, please?
+She speaks English fluently.
+He cooked the most amazing dinner.
+Would you like to go to the cinema on Friday night?
+Baseball is very popular in Japan.
+Do you fast during Ramadan?
+Could you pass me the third book on the shelf, please?
+Do you remember the July when we met?
+Shall we have coffee on Monday?
+Julie is studying Japanese.
+Could you come on the 6th of August?
+The information about proper nouns is in Section 9.
+Do you play rugby at school?
+I love summer!
+She can speak Spanish really well.
+We often go on holiday in May.
+How about meeting on Tuesday afternoon?
+Please turn to question D in your exam paper.
+He was crowned king in Westminster Abbey.
+Fact is, I don't like tea very much, even though I'm British.
+Her office is on the second floor.
+I love skiing.
+The winter that I was in Japan was one of the best winters of my life.
+Do you celebrate Easter?
+The train leaves from Ø platform 6.
+The English that they speak in Glasgow is quite different from how people speak in London.
+He was elected Prime Minister.
+
+
+[Special cases]
+Look at the sky! It's a beautiful shade of pink!
+Neil Armstrong explored in a moon buggy.
+Have you had lunch yet?
+She can play the guitar really well.
+I think we should fix the roof properly now, so we can avoid future problems.
+The government needs to think more about protecting the environment.
+We had a Russian lesson every Friday when I was at university.
+The children made a model of the world.
+John has a cough.
+The children can't leave the classroom until the lunch bell rings.
+She bought a new work outfit.
+They are learning to speak Ø Russian.
+He's working as a guitar teacher.
+Mary bought cough medicine.
+She loves sky diving.
+She's just graduated from university and is very excited about the future.
+She works for an environment agency in Canada.
+Did you see the moon last night? It was really bright.
+They wished for world peace.
+He goes to work on the train every day.
+The old actor died in hospital last night.
+She sometimes goes to the jail in our city as part of her job.
+My son's studying history at university.
+When their houses were damaged in the storm, some people slept in the school nearby.
+He spent three years in prison.
+Have you ever seen the university in Cambridge?
+The lawyer stood up in court and spoke to the jury.
+The college in our city is very near the river.
+Do your parents go to church on Sundays?
+Lucy is still at school-she's only fourteen.
+I won't break the law-I don't want to go to jail!
+My class visited the prison in our town last month - it was very interesting.
+We'll meet outside the church at six.
+The school children had a tour round the court near their school.
+How many classes do you have at college?
+I went to the hospital today to see my friend who's a nurse.
+John is at home now.
+Let's go into town later - I'd like to do some shopping.
+I went to bed early last night, but I still feel tired.
+The work that Julie is doing at the moment sounds boring.
+My son's just rented his first flat and needs furniture - I'm going to give him the bed in our spare room.
+I usually arrive at work at about eight thirty.
+She bought a book about the homes of the rich and famous.
+The town where my mother lives is very pretty.
+She has never had the measles.
+Unfortunately, he was diagnosed with cancer.
+I felt ill, but I didn't have a temperature.
+Her grandfather suffered from Ø heart disease.
+Julie has a cold, so she's not coming swimming today.
+John had a fever, and felt terrible.
+He had the flu during the Christmas holidays.
+I have such a headache. I think I'll go to bed early.
+She had a cough all winter.
+I very often get the hiccups.
+I don't like the AC at work. It's too cold.
+Should we book a B&B or a hotel for our holiday?
+She's studying DNA at university.
+Where is the headquarters of NASA?
+Do you know the ISBN of the book you want?
+You should use a sun cream with a high SPF if you have fair skin.
+There are a lot of stories about UFOS. People find the idea of life on other planets interesting.
+She's wanted to work for the BBC for a long time.
+In the film, the hero is running away from the CIA.
+Is there an ATM outside the station?
+How many member states are there in the EU?
+He worked as a reporter for CNN.
+The headquarters of the FBI is in Washington D.C.
+There are thirty basketball clubs in the NBA.
+He left UNICEF some money in his will.
+The UN sent aid to the country after the earthquake.
+When does the WHO recommend weaning babies?
+The website has a FAQ, but I couldn't find the information that I wanted there.
+I need to call the bank and ask them to send me a new PIN.
+Lord Ismay was the first Secretary General of NATO.
+I have a little water left. There's enough to share.
+I have a few good friends. I'm not lonely.
+He has little education. He can't read or write, and he can hardly count.
+There are few people she really trusts. It's a bit sad.
+We've got a little time at the weekend. Would you like to meet?
+Julie gave us a few apples from her garden. Shall we share them?
+She has little self-confidence. She has a lot of trouble talking to new people.
+There are few women politicians in the UK. There should be more.
+It's a great pity, but this hospital has little medicine. They can't help many people.
+I've got a few cakes to give away. Would you like one?
+There's a little milk left in the fridge. It should be enough for our coffee.
+Few children from this school go on to university, unfortunately.
+Do you need information on English grammar? I have a few books on the topic if you would like to borrow them.
+She's lucky. She has few problems.
+The UK has little sunshine in the winter. That's why so many British people go on holiday to sunny places!
+There's a little spaghetti left in the cupboard. Shall we eat it tonight?
